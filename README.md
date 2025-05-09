@@ -1,70 +1,36 @@
 # Power-BI-Car-Sales-Dashboard
 Created and extracted the data from the database and Performed ETL using Power Query and Data Analysis Expressions(DAX).
 1. Project Scope
-The purpose of this project was to design and develop an interactive Power BI dashboard to analyze and visualize car sales data across multiple dimensions such as company, model, region, color, and body style. The dashboard provides both high-level summaries and detailed insights to support decision-making in sales strategy, inventory management, and customer preferences.
+Developed an interactive Power BI dashboard to analyze car sales across companies, regions, models, and colors. Key features included YTD/MTD summaries, sales trends, and filterable details for business insights.
 
-2, Key deliverables included:
+2. Business Questions Answered
 
-YTD and MTD performance overview
+What are the YTD and MTD sales performance metrics?
 
-Sales breakdown by region, dealer, body style, and color
+Which car body styles, colors, and regions are top performers?
 
-Trend analysis of weekly sales
+What are the trends in sales volume and average prices?
 
-Filterable detailed view of individual transactions
+Who are the best-performing dealers and companies?
 
-3, Key Business Questions Answered
+3. Key Insights
 
-What is the overall car sales performance year-to-date and month-to-date?
+YTD Sales: $371.2M; MTD Sales: $54.28M
 
-Which car body styles and colors are most popular among buyers?
+Units Sold: 13.3K cars (+19.73%)
 
-How are sales distributed across different regions and dealers?
+Avg Price: $28.0K (down $220)
 
-What are the trends in weekly car sales performance?
+Top Colors: Pale White, Black, Red
 
-Which companies and models generate the most revenue and unit sales?
+Popular Body Styles: SUV and Sedan
 
-How is the average selling price changing over time?
+Top Companies: Toyota, Ford, Chevrolet (high volume); Cadillac (premium pricing)
 
-4, Key Findings and Insights
+High-Performing Regions: Pasco, Aurora, Westfield, Madisonville
 
-Sales Performance:
+Sales Peak: $14.9M in one week
 
-YTD total sales reached $371.2M, with a strong MTD contribution of $54.28M.
+The dashboard delivers clear performance metrics and market trends, enabling data-driven sales strategies.
+![image](https://github.com/user-attachments/assets/e83d00f9-ec91-47b4-9a69-59a3373cd78c)
 
-A total of 13.3K cars were sold YTD, a 19.73% increase (+2.6K units).
-
-The average sale price is $28.0K, showing a slight decline of $220 (-0.79%).
-
-Color Preferences:
-
-Pale White, Black, and Red are the top three most sold car colors.
-
-These preferences may indicate a trend toward classic and neutral vehicle aesthetics.
-
-Body Style Preferences:
-
-SUVs and Sedans are the leading categories in terms of sales volume.
-
-Hardtop and Passenger styles accounted for the least number of sales.
-
-Top Performing Companies:
-
-Companies like Toyota, Ford, and Chevrolet contributed significantly to overall sales volume.
-
-Cadillac showed the highest average sales price ($31.5K), indicating premium positioning.
-
-Regional and Dealer Insights:
-
-High-performing regions included Pasco, Aurora, Westfield, and Madisonville.
-
-These regions could be targeted for additional marketing and supply chain support.
-
-Sales Trends:
-
-Weekly sales peaked at $14.9M, with noticeable fluctuations throughout the year.
-
-This suggests the impact of external factors such as promotions, seasons, or market conditions.
-
-This dashboard enables stakeholders to monitor performance, identify top-selling segments, and make informed, data-driven decisions for sales planning and optimization.
