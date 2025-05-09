@@ -1,10 +1,9 @@
 # Power-BI-Car-Sales-Dashboard
 Created and extracted the data from the database and Performed ETL using Power Query and Data Analysis Expressions(DAX).
 1. Project Scope
-
 The purpose of this project was to design and develop an interactive Power BI dashboard to analyze and visualize car sales data across multiple dimensions such as company, model, region, color, and body style. The dashboard provides both high-level summaries and detailed insights to support decision-making in sales strategy, inventory management, and customer preferences.
 
-Key deliverables included:
+2, Key deliverables included:
 
 YTD and MTD performance overview
 
@@ -14,7 +13,7 @@ Trend analysis of weekly sales
 
 Filterable detailed view of individual transactions
 
-2. Key Business Questions Answered
+3, Key Business Questions Answered
 
 What is the overall car sales performance year-to-date and month-to-date?
 
@@ -28,7 +27,7 @@ Which companies and models generate the most revenue and unit sales?
 
 How is the average selling price changing over time?
 
-3. Key Findings and Insights
+4, Key Findings and Insights
 
 Sales Performance:
 
