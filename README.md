@@ -13,6 +13,10 @@ What are the trends in sales volume and average prices?
 
 Who are the best-performing dealers and companies?
 
+The dashboard delivers clear performance metrics and market trends, enabling data-driven sales strategies.
+![Dashboard-overview](https://github.com/user-attachments/assets/e3f091d9-7c50-4cbe-a393-040fa1fc554c)
+
+![image](https://github.com/user-attachments/assets/e83d00f9-ec91-47b4-9a69-59a3373cd78c)
 3. Key Insights
 
 YTD Sales: $371.2M; MTD Sales: $54.28M
@@ -30,7 +34,3 @@ Top Companies: Toyota, Ford, Chevrolet (high volume); Cadillac (premium pricing)
 High-Performing Regions: Pasco, Aurora, Westfield, Madisonville
 
 Sales Peak: $14.9M in one week
-
-The dashboard delivers clear performance metrics and market trends, enabling data-driven sales strategies.
-![image](https://github.com/user-attachments/assets/e83d00f9-ec91-47b4-9a69-59a3373cd78c)
-
