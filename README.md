@@ -17,6 +17,7 @@ The dashboard delivers clear performance metrics and market trends, enabling dat
 ![Dashboard-overview](https://github.com/user-attachments/assets/e3f091d9-7c50-4cbe-a393-040fa1fc554c)
 
 ![image](https://github.com/user-attachments/assets/e83d00f9-ec91-47b4-9a69-59a3373cd78c)
+
 3. Key Insights
 
 YTD Sales: $371.2M; MTD Sales: $54.28M
