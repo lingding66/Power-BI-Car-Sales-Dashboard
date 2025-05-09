@@ -1,9 +1,10 @@
 # Power-BI-Car-Sales-Dashboard
 Created and extracted the data from the database and Performed ETL using Power Query and Data Analysis Expressions(DAX).
-1. Project Scope
+Project Scope
+
 Developed an interactive Power BI dashboard to analyze car sales across companies, regions, models, and colors. Key features included YTD/MTD summaries, sales trends, and filterable details for business insights.
 
-2. Business Questions Answered
+Business Questions Answered
 
 What are the YTD and MTD sales performance metrics?
 
@@ -18,7 +19,7 @@ The dashboard delivers clear performance metrics and market trends, enabling dat
 
 ![image](https://github.com/user-attachments/assets/e83d00f9-ec91-47b4-9a69-59a3373cd78c)
 
-3. Key Insights
+Key Insights
 
 YTD Sales: $371.2M; MTD Sales: $54.28M
 
